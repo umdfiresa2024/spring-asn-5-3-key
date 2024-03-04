@@ -1,2 +1,2 @@
-# spring-asn-6-3-key
-ASN6.3. Paper Replication: Make Table 1
+# spring-asn-5-3-key
+ASN5.3. Paper Replication: Make Table 1
